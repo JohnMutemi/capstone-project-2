@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+.container {
+    max-width: 800px; /* Limit container width */
+    margin: 0 auto; /* Center container horizontally */
+    padding-top: 20px; /* Add space at the top */
+}
+
+h2 {
+    color: #333; /* Dark text color */
+}
+
+.table {
+    background-color: #fff; /* White background for table */
+}
+
+.form-label {
+    color: #333; /* Dark text color for form labels */
+}
+
+.form-control {
+    border-color: #ced4da; /* Light gray border for form controls */
+}
+
+.btn {
+    margin: 5px; /* Add space between buttons */
+}
